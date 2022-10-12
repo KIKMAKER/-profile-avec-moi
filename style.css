@@ -16,7 +16,7 @@
   letter-spacing: 10;
   line-height: 20%;
   margin: 15px;
-
+  padding-bottom: 10px;
 }
 .k-container {
   background-color:#DAD4F1;
@@ -33,10 +33,10 @@
   margin: 10px auto;
 }
 body {
-  background-color: #DAD4F1;
+  background-color: #e0dbf5;
   font-family:'Encode Sans Semi Condensed', sans-serif;
   font-size: 18px;
-  font-weight: 498;
+  font-weight: 499;
   line-height: 30px;
   text-align: center;
 }
@@ -53,6 +53,7 @@ body {
 .pp:hover {
   background-image: url("images/kiki_1.jpg");
   background-size: cover;
+  transition: 0.8s ease-in-out;
 }
 
 .button {
@@ -67,6 +68,14 @@ body {
   margin-top: 17px;
 }
 
+.button:hover {
+  opacity: 0.8;
+  background-color: #EFAF41;
+  color: #5c0099;
+  transition: 0.7s ease-in-out;
+  font-weight: 400;
+}
+
 
 ul {
   padding: 0px 0px 0px 0px;
@@ -76,7 +85,14 @@ ul {
   list-style: none;
   letter-spacing: 15px;
   font-size: 23px;
+  color: #5c0099;
+}
 
+.icon:hover {
+
+  color: #EFAF41;
+  transition: 0.7s ease-in-out;
+  font-weight: 400;
 }
 
 a {
