@@ -1,0 +1,84 @@
+
+
+
+.k_heading {
+  /* font-family: 'Encode Sans Semi Condensed', sans-serif; */
+  font-family: 'Arima', cursive;
+  font-size: 60px;
+  letter-spacing: 10;
+  line-height: 10%;
+  color: #EFAF41;
+}
+
+.k_subheading {
+  color: #EFAF41;
+  font-size: 23px;
+  letter-spacing: 10;
+  line-height: 20%;
+  margin: 15px;
+
+}
+.k-container {
+  background-color:#DAD4F1;
+  width: 555px;
+  margin: 0 auto;
+}
+
+.k-card{
+  background-color: #F7D4F2;
+  color: #5c0099;
+  padding: 17px;
+  border-radius: 7px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  margin: 10px auto;
+}
+body {
+  background-color: #DAD4F1;
+  font-family:'Encode Sans Semi Condensed', sans-serif;
+  font-size: 18px;
+  font-weight: 498;
+  line-height: 30px;
+  text-align: center;
+}
+
+.pp {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  background-image: url("images/kiklicoding.png");
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+}
+.pp:hover {
+  background-image: url("images/kiki_1.jpg");
+  background-size: cover;
+}
+
+.button {
+  background-color: #42047e;
+  color: #DAD4F1;
+  padding: 7px 17px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 7px;
+  margin-top: 17px;
+}
+
+
+ul {
+  padding: 0px 0px 0px 0px;
+}
+.icon {
+  display: inline;
+  list-style: none;
+  letter-spacing: 15px;
+  font-size: 23px;
+
+}
+
+a {
+  text-decoration: none;
+}
