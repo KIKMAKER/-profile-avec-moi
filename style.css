@@ -1,20 +1,18 @@
 
 
 
-.k_heading {
+.k-heading {
   /* font-family: 'Encode Sans Semi Condensed', sans-serif; */
   font-family: 'Arima', cursive;
   font-size: 60px;
-  letter-spacing: 10;
-  line-height: 10%;
+  line-height: 1;
   color: #EFAF41;
 }
 
-.k_subheading {
+.k-subheading {
   color: #EFAF41;
   font-size: 23px;
-  letter-spacing: 10;
-  line-height: 20%;
+  line-height: 1;
   margin: 15px;
 
 }
@@ -35,7 +33,7 @@
 body {
   background-color: #DAD4F1;
   font-family:'Encode Sans Semi Condensed', sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 498;
   line-height: 30px;
   text-align: center;
